@@ -14,20 +14,20 @@
 ### Questões
 | Título | Responsável | Dificuldade
 | -- | -- | -- | 
-| 30. Substring with Concatenation of All Words | Nathan Abreu | |
-| 4. Median of Two Sorted Arrays  | Nathan Abreu | |
+| 729. My Calendar I | Nathan Abreu | |
+| 732. My Calendar III  | Nathan Abreu | |
 | 295. Find Median from Data Stream | João Pedro | Díficil |
 | 327. Count of Range Sum | João Pedro | Díficil |
 
 
 ## Screenshots
-### [()]()
+### [(729. My Calendar I)](https://leetcode.com/problems/my-calendar-i/description/)
 
-![()]()
+![(729. My Calendar I)](Imagens/729.jpg)
 
-### [ ()]()
+### [ (732. My Calendar III)](https://leetcode.com/problems/my-calendar-iii/description/)
 
-![ ()]()
+![ (732. My Calendar III)](Imagens/732.jpg)
 
 
 
@@ -48,29 +48,29 @@ https://youtu.be/v1Hp2W2oak0
 
 ### Questão 01
 
-rode o Python: Nathan/Substring.py
+rode o Python: Nathan/729.py
 
 ```
 input: 
-s = "barfoothefoobarman"
-words = ["foo","bar"]
+["MyCalendar", "book", "book", "book"]
+[[], [10, 20], [15, 25], [20, 30]]
 
 output: 
-[0,9]
+[null, true, false, true]
 
 ```
 
 ### Questão 02
 
-rode o Python: Nathan/Median.py
+rode o Python: Nathan/732.py
 
 ```
 input: 
-nums1 = [1,3]
-num2 = [2]
+["MyCalendarThree","book","book","book","book","book","book"]
+[[],[10,20],[50,60],[10,40],[5,15],[5,10],[25,55]]
 
 output:
-2.00000
+[null,1,1,2,3,3,3]
 
 ```
 
