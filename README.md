@@ -14,8 +14,8 @@
 ### Questões
 | Título | Responsável | Dificuldade
 | -- | -- | -- | 
-| 729. My Calendar I | Nathan Abreu | |
-| 732. My Calendar III  | Nathan Abreu | |
+| 729. My Calendar I | Nathan Abreu | Média |
+| 732. My Calendar III  | Nathan Abreu | Difícil |
 | 295. Find Median from Data Stream | João Pedro | Díficil |
 | 327. Count of Range Sum | João Pedro | Díficil |
 
