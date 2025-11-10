@@ -1,7 +1,7 @@
 # Algorítmos de busca!
 
 **Número da Lista**: 31<br>
-**Conteúdo da Disciplina**: Algorítmos de busca!<br>
+**Conteúdo da Disciplina**: Árvores Balanceadas!<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -11,33 +11,33 @@
 
 ## Sobre 
 
-### Questões Difíceis
-| Título | Responsável | 
-| -- | -- | 
-| 30. Substring with Concatenation of All Words | Nathan Abreu | 
-| 4. Median of Two Sorted Arrays  | Nathan Abreu | 
-| 124. Binary Tree Maximum Path Sum| João Pedro | 
-| 37. Sudoku Solver | João Pedro | 
+### Questões
+| Título | Responsável | Dificuldade
+| -- | -- | -- | 
+| 30. Substring with Concatenation of All Words | Nathan Abreu | |
+| 4. Median of Two Sorted Arrays  | Nathan Abreu | |
+| 295. Find Median from Data Stream | João Pedro | Díficil |
+| 327. Count of Range Sum | João Pedro | Díficil |
 
 
 ## Screenshots
-### [(Mediana de 2 vetores ordenados)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+### [()]()
 
-![(Mediana das Medianas)](/Imagens/Median.png)
+![()]()
 
-### [ (Concatenação de todas as palavras com Substring)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+### [ ()]()
 
-![ (Contagem de inversões)](/Imagens/Substring.png)
+![ ()]()
 
 
 
-### [(Soma máxima do caminho da árvore binária)](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=binary-tree)
+### [(295. Find Median from Data Stream)](https://leetcode.com/problems/find-median-from-data-stream/description/)
 
-![(Soma máxima do caminho da árvore binária)](Imagens/BinaryTree.png)
+![(295. Find Median from Data Stream)](Imagens/295.png)
 
-### [(Solucionador de Sudoku)](https://leetcode.com/problems/sudoku-solver/description/?envType=problem-list-v2&envId=hash-table)
+### [(327. Count of Range Sum)](https://leetcode.com/problems/count-of-range-sum/description/)
 
-![(Solucionador de Sudoku)](Imagens/SudokuSolver.png) 
+![(327. Count of Range Sum)](Imagens/327.png) 
 
 
 ## Link do vídeo
