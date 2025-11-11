@@ -42,7 +42,12 @@
 
 ## Link do vídeo
 
-https://youtu.be/v1Hp2W2oak0
+Clique no link abaixo para ser direcionado para o vídeo: 
+
+[(Link do Vídeo)](https://youtu.be/xPs1782cfR8)  
+
+
+
 
 ## Guia de execução
 
